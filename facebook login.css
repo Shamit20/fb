@@ -1,0 +1,105 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+    background: #f0f2f5;
+    margin: -5px -5px 0px -5px;
+    height: 510px;
+    display: block;
+    justify-content: center;
+}
+#img{
+    width: 240px;
+    height: 84px;
+    margin: 33px 0 0 633px;
+}
+.box{
+    background-color: white;
+    height: 314px;
+    width: 398px;
+    text-align: center;
+    display: inline-block;
+    justify-content: center;
+    margin: -5px 0 0 553px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    border-radius: 8px;
+    border: 1px solid #dddfe2;
+}
+#login{
+    margin: 25px 0 0 0px;
+    font-size: 18px;
+    color: #1c1e21;
+}
+#email{
+    color: #1d2129;
+    width: 330px;
+    border-radius: 6px;
+    padding: 14px 16px;
+    border: 0;
+    font-size: 17px;
+    height: 22px;
+    margin-top: 23px;
+    border: 1px solid #dddfe2;
+}
+#pass{
+    color: #1d2129;
+    width: 330px;
+    border-radius: 6px;
+    padding: 14px 16px;
+    border: 0;
+    font-size: 17px;
+    height: 22px;
+    margin-top: 12px;
+    border: 1px solid #dddfe2;
+}
+#login2{
+    width: 365px;
+    background-color: #1877f2;
+    color: white;
+    border: 0px solid #365899;
+    border-radius: 6px;
+    padding: 0px 16px;
+    font-weight: bold;
+    height: 48px;
+    font-size: 20px;
+    margin-top: 12px;
+}
+#forgot{
+    color: #1877f2;
+    margin-top: 18px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.foot{
+    font-size: 12px;
+    margin-top: 160px;
+    margin-left: 260px;
+    color: #8a8d91;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#line2{
+    width: 990px;
+    margin-top: 10px;
+    margin-left: 260px;
+    border-color: #f0f2f5;
+}
+.english{
+    margin-right: 6px;
+}
+.text{
+    margin-left: 260px;
+    font-size: 12px;
+    color: #737373;
+}
+.text2{
+    margin-bottom: -8px;
+    color: #8a8d91;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#text3, #text4, #text5, #text6, #text7, #text8, #text9, #text10, #text11, #text12, #text13, #text14, #text15, #text16, #text17, #text18, #text19, #text20, #text21, #text22, #text23, #text24, #text25, #text26, #text27, #text28, #text29, #text30, #text31{
+    margin-right: 18px;
+}
+#text32{
+    color: #737373;
+}
